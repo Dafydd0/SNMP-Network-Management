@@ -1,0 +1,15 @@
+Registro de traps recibidas
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 98, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:22:34
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 2801, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:22:36
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 68, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:22:48
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 452, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:15
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 242, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:18
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 2700, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:19
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 54, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:27
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 2432, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:28
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 2670, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:35
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 1462, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:46
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 986, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:47
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 154, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:55
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 1618, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:23:56
+La variable cuyo oid es: 1.3.6.1.2.1.4.3.0, ha superado el umbral incremental superior definido en: 20, con un valor de: 2460, ya que se ha elegido un Sample Type incremental. Fecha actual: 22-5-2021 12:24:2

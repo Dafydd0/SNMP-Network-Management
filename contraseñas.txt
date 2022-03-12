@@ -1,0 +1,4 @@
+usuario1->pass1; correo1
+usuario2->pass2; correo2
+admin->admin; gestiontrabajo10@gmail.com
+prueba->prueba; correo
